@@ -9,7 +9,7 @@ The following are required to run a windows container on Service Fabric cluster
     - Visual Studio 2017 with [Service Fabric SDK](https://docs.microsoft.com/en-us/azure/service-fabric/service-fabric-get-started)
     - Docker for Windows. [Get Docker CE for Windows (stable)](https://store.docker.com/editions/community/docker-ce-desktop-windows?tab=description). After installing and starting Docker, **right-click on the tray icon and select Switch to Windows containers**. This step is required to run Docker images based on Windows.
 * Service Fabric cluster (version 6.4) with 3 or 5 nodes running Windows Server 2019 with Containers feature installed. If using different version, refer the [Windows - Container version compatibility](/containers/WindowsContainersCompatibilityReadMe.md)
-* Container registry. Since there is no registry available other than Openshift as of now, for development purpose, you can use a local one. Follow steps to run [local windows registry](/package/WindowsLocalRegistryReadMe.md)
+* Container registry. If you don't have a container registry available, for development purpose, you can use a local one. Follow steps to run [local windows registry](/package/WindowsLocalRegistryReadMe.md)
 
 ## Define the Docker file
 
