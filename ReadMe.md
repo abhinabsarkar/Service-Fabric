@@ -8,7 +8,7 @@ Service Fabric is an open source platform provided by Microsoft which focuses on
 
 ## Architecture, Definitions & Concepts
 
-* [Service Fabric Architecture](/architecture/ArchitectureReadMe.md)
+* [Service Fabric Architecture](/architecture/ArchitectureReadme.md)
 
 ## Installation of the Service Fabric Cluster
 
